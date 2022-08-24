@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul 
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning B-tech(IT)
+- 👀 I’m a Software Engineer
+- 🌱 I completed B-tech(IT)
 
 <!---
 rksharmais a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
